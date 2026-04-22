@@ -96,8 +96,8 @@ You will see Nginx welcome page
 
 ## Screenshot
 
-![EC2](terraform-ec2.png)
-![Output](nginx-output.png)
+![EC2](screenshots/terraform-ec2.png)
+![Output](screenshots/nginx-output.png)
 
 
 
