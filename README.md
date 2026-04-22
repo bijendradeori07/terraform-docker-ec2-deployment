@@ -1,4 +1,4 @@
-\# Terraform Docker EC2 Deployment
+# Terraform Docker EC2 Deployment
 
 
 
@@ -6,9 +6,9 @@ This project demonstrates a complete DevOps workflow where infrastructure is pro
 
 
 
-```
+---
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -20,9 +20,9 @@ This project demonstrates a complete DevOps workflow where infrastructure is pro
 
 
 
-```
+---
 
-\## Tech Stack
+## Tech Stack
 
 
 
@@ -34,9 +34,9 @@ This project demonstrates a complete DevOps workflow where infrastructure is pro
 
 
 
-```
+---
 
-\## How it works
+## How it works
 
 
 
@@ -48,25 +48,23 @@ This project demonstrates a complete DevOps workflow where infrastructure is pro
 
 
 
+---
+
+## Deployment Steps
+
+
+
 ```
-
-\## Deployment Steps
-
-
-
-```
-
 terraform init
 
 terraform plan
 
 terraform apply
-
-
-
 ```
 
-\## Output
+---
+
+## Output
 
 
 
@@ -80,13 +78,13 @@ You will see Nginx welcome page
 
 
 
-```
+---
 
-\## Key Learnings 
+## Key Learnings 
 
 
 
-* Infrastructure as code ( IaC)
+* Infrastructure as code (IaC)
 * EC2 provisioning automation
 * Docker container deployment
 * Debugging real-world cloud issues
@@ -94,17 +92,18 @@ You will see Nginx welcome page
 
 
 
-```
+---
 
-\## Screenshot
+## Screenshot
 
-!\[Output](nginx-output.png)
+![EC2](terraform-ec2.png)
+![Output](nginx-output.png)
 
 
 
-```
+---
 
-\## Author
+## Author
 
 Bijendra Kumar Deori
 
